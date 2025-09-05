@@ -9,7 +9,7 @@ Open to roles in: **ML Engineering • Data Science • Backend / Data Infrastru
 **📫 Contact**
 - Email: bk609469@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/bhavana-koli-567029220  
-- Resume: [Resume_Bhavana_Koli.pdf](./Resume_Bhavana_Koli.pdf)
+- Resume: [Resume_Bhavana_Koli.pdf](./BhavanaKoli_VITBhopalUniversity_BCE.pdf)
 
 ---
 
