@@ -7,71 +7,43 @@ Open to roles in: **ML Engineering • Data Science • Backend / Data Infrastru
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/bhavana-koli-567029220/" target="_blank">
-  <button style="background-color:#0077B5;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">
-    LinkedIn
-  </button>
-</a>
-
-<a href="https://x.com/BhavanaKoli6" target="_blank">
-  <button style="background-color:#1DA1F2;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">
-    Twitter
-  </button>
-</a>
-
-<a href="https://leetcode.com/u/BhavanaKoli/" target="_blank">
-  <button style="background-color:#FFA116;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">
-    LeetCode
-  </button>
-</a>
-
-<a href="./BhavanaKoli_VITBhopalUniversity_BCE.pdf" target="_blank">
-  <button style="background-color:#FF5722;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">
-    Resume
-  </button>
-</a>
-
-</div>
-
-<p align="center" style="margin-top:10px;">
-  <span style="background-color:#555;color:white;padding:5px 15px;border-radius:3px;font-weight:bold;">
-    Profile Views 10
-  </span>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhavana-koli-567029220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/BhavanaKoli6">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://leetcode.com/u/BhavanaKoli/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="./BhavanaKoli_VITBhopalUniversity_BCE.pdf">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BhavanaKoli&label=Profile%20views&color=ff5733&style=for-the-badge" alt="Profile Views">
+</p>
+
+---
 
 ## 📫 Contact Me
 
-<div align="center">
-
-<a href="mailto:bk609469@gmail.com" target="_blank">
-  <button style="background-color:#D14836;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">
-    Email
-  </button>
-</a>
-
-<a href="https://linkedin.com/in/bhavana-koli-567029220" target="_blank">
-  <button style="background-color:#0077B5;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">
-    LinkedIn
-  </button>
-</a>
-
-<a href="https://github.com/Bhavana-34" target="_blank">
-  <button style="background-color:#181717;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">
-    GitHub
-  </button>
-</a>
-
-<a href="./BhavanaKoli_VITBhopalUniversity_BCE.pdf" target="_blank">
-  <button style="background-color:#FF5722;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">
-    Resume
-  </button>
-</a>
-
-</div>
-
+<p align="center">
+  <a href="mailto:bk609469@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/bhavana-koli-567029220">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Bhavana-34">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="./BhavanaKoli_VITBhopalUniversity_BCE.pdf">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+  </a>
+</p>
 
 ---
 
