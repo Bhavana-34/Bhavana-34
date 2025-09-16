@@ -17,12 +17,23 @@
 **Python & Machine Learning enthusiast** — I build end-to-end ML solutions, data pipelines, and deploy reproducible projects.  
 Open to roles in: **ML Engineering • Data Science • Backend / Data Infrastructure**
 
-**📫 Contact**
+## 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bk609469@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavana-koli-567029220)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhavana-34)  
-[[![Resume](https://img.shields.io/badge/RESUME-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./BhavanaKoli_VITBhopalUniversity_BCE.pdf)
+<p align="center">
+  <a href="mailto:bk609469@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/bhavana-koli-567029220">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Bhavana-34">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="./BhavanaKoli_VITBhopalUniversity_BCE.pdf">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+  </a>
+</p>
+
 
 
 ## 🚀 Featured Projects  
