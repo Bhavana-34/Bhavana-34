@@ -1,9 +1,9 @@
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavana-koli-567029220/) 
-[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BhavanaKoli6) 
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/BhavanaKoli/) 
-[![Resume](https://img.shields.io/badge/RESUME-PDF-orange?style=for-the-badge&logo=adobeacrobat&logoColor=white)](./BhavanaKoli_VITBhopalUniversity_BCE.pdf)
+   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavana-koli-567029220/) 
+   [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BhavanaKoli6) 
+   [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/BhavanaKoli/) 
+   [![Resume](https://img.shields.io/badge/RESUME-PDF-orange?style=for-the-badge&logo=adobeacrobat&logoColor=white)](./BhavanaKoli_VITBhopalUniversity_BCE.pdf)
 
 <br>
 
@@ -58,11 +58,7 @@ Open to roles in: **ML Engineering • Data Science • Backend / Data Infrastru
 ### 🛠️ Tools & Platforms  
 🔧 Git & GitHub | ☁️ AWS (Basic) | 🧑‍💻 VS Code | 🖤 PyCharm | 🚀 IntelliJ IDEA  
 ---
-## 📊 GitHub Insights  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhavanaKoli&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhavanaKoli&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavanaKoli&layout=compact&theme=tokyonight&hide_border=true)  
 
 ## 🏅 Achievements & Activities  
 
